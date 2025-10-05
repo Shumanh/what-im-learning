@@ -1,5 +1,7 @@
 # Backend Learning Resources
 
+This section contains my learning resources for backend development concepts and technologies, focusing on essential topics like authentication, authorization, and database management.
+
 ## Video Tutorials
 
 - [Authentication and Authorization](https://www.youtube.com/watch?v=A95rliroC8Q&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=8)
